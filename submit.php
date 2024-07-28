@@ -30,7 +30,7 @@
     $message = $_POST['message'];
 
     // 送信先のメールアドレスを設定
-    $to = "your-email@example.com"; // ここに実際にメールを受信するメールアドレスを設定
+    $to = "2p3jvg5o8@gmail.com"; // ここに実際にメールを受信するメールアドレスを設定
 
     // メールの件名
     $subject = "お問い合わせがありました";
