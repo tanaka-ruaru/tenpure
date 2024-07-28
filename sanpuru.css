@@ -1,0 +1,231 @@
+body {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(224, 245, 168);
+}
+
+td {
+    background-color: rgb(221, 236, 250);
+}
+
+
+.hedar {
+    height: 100px;
+    background-color: rgb(141, 229, 141);
+}
+
+.hedar-logo {
+    float: left;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+.hedar-list {
+    float: right;
+}
+
+.hedar-list li{
+    float: left;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+
+.tennpure {
+    height: 1200px;
+}
+
+.tennpure h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.footer {
+    height: 240px;
+    background-color: rgb(141, 229, 141);
+}
+
+.footer-rist1 {
+    float: left;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.footer-rist1 p {
+    padding-top: 15px;
+}
+
+.footer-rist2 {
+    float: right;
+    padding-right: 40px;
+}
+
+.footer-rist2 li {
+    padding-top: 15px;
+}
+
+
+.hello {
+    height: 500px;
+    padding-top: 1px;
+}
+
+.hello h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.hello-list {
+    float: left;
+    width: 33%;
+}
+
+.hello-list1 {
+    text-align: center;
+}
+
+.hello-list2 {
+    text-align: center;
+}
+
+
+.overview {
+    height: 400px;
+}
+
+.overview h1 {
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+.overview-list {
+    text-align: center;
+
+    padding: 20px;
+    /* テキストと枠の間の余白 */
+    width: 500px;
+    /* 枠の幅 */
+    margin: 0 auto;
+    /* 横方向の中央揃え */
+    text-align: center;
+    /* 内容を中央揃え */
+    height: 200px;
+    /* 枠の高さ */
+    justify-content: space-between;
+    /* 上下に要素を均等に分割 */
+    flex-direction: column;
+    /* 縦方向に要素を並べる */
+    display: flex;
+    /* Flexboxを使用 */
+    text-align: center;
+}
+
+
+.fee {
+    height: 500px;
+}
+
+.fee h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.fee-list {
+    float: left;
+    width: 33%;
+}
+
+.fee-list1 {
+    text-align: center;
+}
+
+.fee-list2 {
+    text-align: center;
+
+    padding: 20px;
+    /* テキストと枠の間の余白 */
+    width: 500px;
+    /* 枠の幅 */
+    margin: 0 auto;
+    /* 横方向の中央揃え */
+    text-align: center;
+    /* 内容を中央揃え */
+    height: 200px;
+    /* 枠の高さ */
+    justify-content: space-between;
+    /* 上下に要素を均等に分割 */
+    flex-direction: column;
+    /* 縦方向に要素を並べる */
+    display: flex;
+    /* Flexboxを使用 */
+    text-align: center;
+}
+
+.fee-list3 {
+    text-align: center;
+}
+
+.notice {
+    height: 500px;
+}
+
+.notice h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.notice-list {
+    text-align: center;
+}
+
+.notice-list p {
+    padding-top: 20px;
+}
+
+
+.contact {
+    height: 750px;
+}
+
+.contact h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.contact p {
+    text-align: center;
+}
+
+.contact-list1 p {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.contact-list2  {
+    padding-top: 20px;
+    text-align: center;
+}
